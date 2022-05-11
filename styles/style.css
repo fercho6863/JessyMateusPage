@@ -52,7 +52,7 @@ ion-icon {
 	text-align: justify;
 }
 
-img {
+.img_colapse {
 	width: 1024px;
 	height: 720px;
 	object-fit: cover;
